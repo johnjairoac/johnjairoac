@@ -1,15 +1,15 @@
- # Titulo
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola!!!+Bienvenidos+a+mi+perfil+👋+👋+👋)
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johnjairac&bg_color=0d1117&color=ffffff&line=02D9F7FF&point=f9fafa&area=true&hide_border=true)
-
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola!!!+Bienvenidos+a+mi+perfil+👋+👋+👋)
+ 
+ <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=02D9F7FF&point=f9fafa&area=true&hide_border=true)
+ 
+ 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=johnjairac&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
-
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center">
     <br/><br/><a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
