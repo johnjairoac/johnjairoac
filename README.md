@@ -56,7 +56,7 @@ graph TD;
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
 <br><p align="centre"><b>Vistar Perfil 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<p align="center"><img align="center" src="" /></p> 
 <br>
 </div>
 
