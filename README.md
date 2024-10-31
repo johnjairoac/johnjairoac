@@ -5,7 +5,7 @@
 
 💻 Mis proyectos abarcan desde aplicaciones web hasta scripts de automatización, siempre con un enfoque en la calidad del código y las mejores prácticas. Me encanta aprender y experimentar con nuevas tecnologías, así como colaborar en proyectos de código abierto.
 
-🌟 Actualmente, estoy explorando el desarrollo de aplicaciones Flask y la manipulación de datos con SQLite. Siempre estoy buscando formas de mejorar mis habilidades y contribuir a la comunidad de desarrollo.
+🌟 Actualmente, estoy explorando el desarrollo de aplicaciones Flask y la manipulación de datos con SQLite. Siempre estoy buscando formas de mejorar mis habilidades.
 
 📫 No dudes en contactarme si deseas colaborar o discutir sobre programación, automatización o cualquier otro tema relacionado.
  <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
