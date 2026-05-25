@@ -11,15 +11,20 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO DE SISTEMAS
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes  
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+⚡ Manejo herramientas de automatización como UiPath y n8n  
 
-📫 Contacto: **unsimpledev@gmail.com**
+🐍 Desarrollo aplicaciones y APIs usando Python y Flask  
+
+💬 Automatizo procesos con chatbots e integraciones inteligentes  
+
+📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización  
+
+📫 Contacto: **johnjairoac@gmail.com**
 <!--Intro end-->
   </p>
 <br>
