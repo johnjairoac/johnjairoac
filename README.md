@@ -21,7 +21,8 @@
 
 📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización  
 
-📫 Contacto: **johnjairoac@gmail.com**
+📫 Contacto: **johnjairoac@gmail.com** 
+<br>
               **soporte@automatizaciondigital.cloud**
 <!--Intro end-->
   </p>
