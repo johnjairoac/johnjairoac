@@ -21,7 +21,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Ingeniero de Sistemas  / con Especialización en Gerencia de Proyectos
+🎓 Ingeniero de Sistemas  /  Especialización en Gerencia de Proyectos
 
 🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes  
 
