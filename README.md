@@ -118,11 +118,18 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<br>
+<br>
+
+<h3 align="center">
+⚡ Automatizando ideas, construyendo soluciones y creando el futuro con código.
+</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;RPA+Automation+Engineer;AI+Chatbot+Builder;Flask+Backend+Developer;Automation+with+n8n+%26+UiPath" />
+</p>
 <!--- trophy (start) -->
 
 
