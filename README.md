@@ -1,10 +1,7 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋 Soy John Jairo Alvis Carreño ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
@@ -12,15 +9,20 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Ingeniero de Sistemas  
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes  
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+⚡ Manejo herramientas de automatización como UiPath y n8n  
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+🐍 Desarrollo aplicaciones y APIs usando Python y Flask  
 
-📫 Contacto: **unsimpledev@gmail.com**
+💬 Automatizo procesos con chatbots e integraciones inteligentes  
+
+📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización  
+
+📫 Contacto: **johnjairoac@gmail.com**
+              **soporte@automatizaciondigital.cloud**
 <!--Intro end-->
   </p>
 <br>
