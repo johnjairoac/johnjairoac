@@ -75,7 +75,10 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización con n8n y WhatsApp" />
+        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n" />
+    </p>
+    <p align="center">
+        <strong>Automatización de Correos con n8n</strong>
     </p>
 </td>
 
