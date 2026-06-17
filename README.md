@@ -18,23 +18,43 @@
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
 
 <p align="left">
-🎓 Ingeniero de Sistemas  
+🎓 Ingeniero de Sistemas
 
-🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes  
+<br><br>
 
-⚡ Manejo herramientas de automatización como UiPath y n8n  
+🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes
 
-🐍 Desarrollo aplicaciones y APIs usando Python y Flask  
+<br><br>
 
-💬 Automatizo procesos con chatbots e integraciones inteligentes  
+⚡ Manejo herramientas de automatización como UiPath y n8n
 
-📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización  
+<br><br>
 
-📫 Contacto: **johnjairoac@gmail.com** 
-<br>
+🐍 Desarrollo aplicaciones y APIs usando Python y Flask
+
+<br><br>
+
+💬 Automatizo procesos con chatbots e integraciones inteligentes
+
+<br><br>
+
+📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización
+
+<br><br>
+
+🚀 Cuento con un entorno VPS donde ejecuto proyectos, automatizaciones e integraciones en funcionamiento. Si deseas conocer demostraciones, pruebas reales, casos de uso o resultados de mis desarrollos, estaré encantado de compartirlos.
+
+<br><br>
+
+🌐 Proyectos y portafolio: github.com/johnjairoac
+
+<br><br>
+
+📫 Contacto: <strong>johnjairoac@gmail.com</strong>
+
+</p>
               **soporte@automatizaciondigital.cloud**
 <!--Intro end-->
   </p>
