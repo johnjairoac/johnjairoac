@@ -54,7 +54,7 @@
 
 <table align="left">
 <tr border="none">
-
+<td width="25%" align="center">
 <td width="25%" align="center">
     <p align="center">
         <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="Proyecto SMS Gateway" />
