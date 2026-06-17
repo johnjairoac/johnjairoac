@@ -68,8 +68,6 @@
 </td>
 
 <td width="25%" align="center">
-<tr>
-
 <td width="25%" align="center">
     <p align="center">
         <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n" />
