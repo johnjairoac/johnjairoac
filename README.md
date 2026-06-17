@@ -38,11 +38,7 @@
 🌐 Proyectos y portafolio: github.com/johnjairoac
 
 📫 Contacto: <strong>johnjairoac@gmail.com</strong>
-
-</p>
 <strong>soporte@automatizaciondigital.cloud</strong>
-<!--Intro end-->
-  </p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
