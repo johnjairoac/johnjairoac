@@ -75,7 +75,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización con n8n y WhatsApp" />
+        <img align="center" width="100%" src="./assets/youtube-banner.png" alt="Automatización con n8n y WhatsApp" />
     </p>
 </td>
 
