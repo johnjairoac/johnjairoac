@@ -50,27 +50,14 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Algunos proyectos 👨🏻‍💻</h2>
 
-<table align="left">
-<tr border="none">
-<td width="25%" align="center">
-<td width="25%" align="center">
-    <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="Proyecto SMS Gateway" />
-    </p>
-</td>
+<table align="center">
+<tr>
 
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="Proyecto Notificaciones Android" />
-    </p>
-</td>
-
-<td width="25%" align="center">
-<td width="25%" align="center">
-    <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n" />
+        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-whatsapp-banner.png" alt="Automatización de WhatsApp con n8n" />
     </p>
     <p align="center">
         <strong>Automatización de WhatsApp con n8n</strong>
@@ -79,18 +66,35 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n" />
+        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n" />
     </p>
     <p align="center">
         <strong>Automatización de Correos con n8n</strong>
     </p>
 </td>
 
-</tr>
+<td width="25%" align="center">
+    <p align="center">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="SMS Gateway" />
+    </p>
+    <p align="center">
+        <strong>SMS Gateway + IA</strong>
+    </p>
+</td>
 
+<td width="25%" align="center">
+    <p align="center">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="Notificaciones Android" />
+    </p>
+    <p align="center">
+        <strong>Notificaciones Android</strong>
+    </p>
+</td>
 
 </tr>
 </table>
+
+</div>
 
 <br><br><br><br><br><br><br><br>
 
