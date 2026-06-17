@@ -42,7 +42,6 @@
 
 📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización
 
-<br>
 
 🚀 Cuento con un entorno VPS donde ejecuto proyectos, automatizaciones e integraciones en funcionamiento. Si deseas conocer demostraciones, pruebas reales, casos de uso o resultados de mis desarrollos, estaré encantado de compartirlos.
 
