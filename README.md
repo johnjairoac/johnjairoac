@@ -84,10 +84,10 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="Notificaciones Android" />
+        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-google-sheets-banner.png" alt="Automatización con n8n y Google Sheets" />
     </p>
     <p align="center">
-        <strong>Notificaciones Android</strong>
+        <strong>Automatización con n8n y Google Sheets</strong>
     </p>
 </td>
 
