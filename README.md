@@ -55,36 +55,36 @@
 <table align="center">
 <tr>
 
-<td width="25%" align="center">
+<td align="center" valign="top">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n" />
+        <img width="280" height="160" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n">
     </p>
     <p align="center">
         <strong>Automatización de WhatsApp con n8n</strong>
     </p>
 </td>
 
-<td width="25%" align="center">
+<td align="center" valign="top">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n" />
+        <img width="280" height="160" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n">
     </p>
     <p align="center">
         <strong>Automatización de Correos con n8n</strong>
     </p>
 </td>
 
-<td width="25%" align="center">
+<td align="center" valign="top">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-forms-banner.png" alt="Automatización de Formularios con n8n" />
+        <img width="280" height="160" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-forms-banner.png" alt="Automatización de Formularios con n8n">
     </p>
     <p align="center">
         <strong>Automatización de Formularios con n8n</strong>
     </p>
 </td>
 
-<td width="25%" align="center">
+<td align="center" valign="top">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-google-sheets-banner.png" alt="Automatización con n8n y Google Sheets" />
+        <img width="280" height="160" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-google-sheets-banner.png" alt="Automatización con n8n y Google Sheets">
     </p>
     <p align="center">
         <strong>Automatización con n8n y Google Sheets</strong>
