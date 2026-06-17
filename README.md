@@ -40,7 +40,7 @@
 📫 Contacto: <strong>johnjairoac@gmail.com</strong>
 
 </p>
-              **soporte@automatizaciondigital.cloud**
+soporte@automatizaciondigital.cloud
 <!--Intro end-->
   </p>
 <br>
