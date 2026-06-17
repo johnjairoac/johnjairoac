@@ -22,11 +22,11 @@
 <p align="left">
 🎓 Ingeniero de Sistemas
 
-<br><br>
+<br>
 
 🤖 Especializado en automatización de procesos y desarrollo de soluciones inteligentes
 
-<br><br>
+<br>
 
 ⚡ Manejo herramientas de automatización como UiPath y n8n
 
