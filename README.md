@@ -68,12 +68,14 @@
 </td>
 
 <td width="25%" align="center">
+<tr>
+
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de whatssapp con n8n" />
+        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n" />
     </p>
     <p align="center">
-        <strong>Automatización de whatssapp con n8n</strong>
+        <strong>Automatización de WhatsApp con n8n</strong>
     </p>
 </td>
 
@@ -85,6 +87,8 @@
         <strong>Automatización de Correos con n8n</strong>
     </p>
 </td>
+
+</tr>
 
 
 </tr>
