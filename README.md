@@ -69,7 +69,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="Proyecto ChatGPT App" />
+        <img align="center" width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-email-banner.png" alt="Automatización de Correos con n8n" />
     </p>
 </td>
 
