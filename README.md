@@ -57,7 +57,7 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-whatsapp-banner.png" alt="Automatización de WhatsApp con n8n" />
+        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/youtube-banner.png" alt="Automatización de WhatsApp con n8n" />
     </p>
     <p align="center">
         <strong>Automatización de WhatsApp con n8n</strong>
