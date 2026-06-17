@@ -75,10 +75,10 @@
 
 <td width="25%" align="center">
     <p align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="SMS Gateway" />
+        <img width="100%" src="https://raw.githubusercontent.com/johnjairoac/johnjairoac/main/assets/n8n-formularios-banner.png" alt="Automatización de Formularios con n8n" />
     </p>
     <p align="center">
-        <strong>SMS Gateway + IA</strong>
+        <strong>Automatización de Formularios con n8n</strong>
     </p>
 </td>
 
