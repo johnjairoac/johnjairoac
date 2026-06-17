@@ -30,27 +30,27 @@
 
 ⚡ Manejo herramientas de automatización como UiPath y n8n
 
-<br><br>
+<br>
 
 🐍 Desarrollo aplicaciones y APIs usando Python y Flask
 
-<br><br>
+<br>
 
 💬 Automatizo procesos con chatbots e integraciones inteligentes
 
-<br><br>
+<br>
 
 📈 Enfocado en optimizar procesos empresariales mediante tecnología y automatización
 
-<br><br>
+<br>
 
 🚀 Cuento con un entorno VPS donde ejecuto proyectos, automatizaciones e integraciones en funcionamiento. Si deseas conocer demostraciones, pruebas reales, casos de uso o resultados de mis desarrollos, estaré encantado de compartirlos.
 
-<br><br>
+<br>
 
 🌐 Proyectos y portafolio: github.com/johnjairoac
 
-<br><br>
+<br>
 
 📫 Contacto: <strong>johnjairoac@gmail.com</strong>
 
